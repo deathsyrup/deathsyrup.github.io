@@ -60,7 +60,7 @@
 }
 body, button, input { font-family: 'Custom'; }
 body::before {
-    background: linear-gradient(var(--bg-overlay), var(--bg-overlay)), url(background-AnjCyqcPSMg.jpg) center / cover;
+    background: linear-gradient(var(--bg-overlay), var(--bg-overlay)), url(background-nf2l3OfaqsA.jpg) center / cover;
     content: '';
     display: block;
     height: 100vh;
