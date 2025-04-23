@@ -26,6 +26,636 @@ const RELEASES = [
 
 ],
 
+    cover: 'cover_160.jpg?ptmGQjWRB1M',
+    title: 'Weird Waveforms IX',
+    tracks: [
+        {
+    artists: [
+    
+],
+
+    
+    number: 'I.',
+    title: '[bnghiyu]',
+    url: 'dc-ww-09/1/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'II.',
+    title: '[cjqrdbu]',
+    url: 'dc-ww-09/2/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'III.',
+    title: '[dfiitud]',
+    url: 'dc-ww-09/3/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IV.',
+    title: '[fqftmvp]',
+    url: 'dc-ww-09/4/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'V.',
+    title: '[hhrflbq]',
+    url: 'dc-ww-09/5/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VI.',
+    title: '[hnmvcrc]',
+    url: 'dc-ww-09/6/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VII.',
+    title: '[kkrqkna]',
+    url: 'dc-ww-09/7/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VIII.',
+    title: '[kyeqtan]',
+    url: 'dc-ww-09/8/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IX.',
+    title: '[qbdtbwk]',
+    url: 'dc-ww-09/9/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'X.',
+    title: '[xjbukgx]',
+    url: 'dc-ww-09/10/'
+}
+
+    ],
+    url: 'dc-ww-09/'
+}
+,
+{
+    artists: [
+    {
+    name: 'deathsyrup',
+    url: 'deathsyrup/'
+}
+
+],
+
+    cover: 'cover_160.jpg?8vZ9EDMDGA4',
+    title: 'Weird Waveforms VII',
+    tracks: [
+        {
+    artists: [
+    
+],
+
+    
+    number: 'I.',
+    title: '[aiaegih]',
+    url: 'dc-ww-08/1/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'II.',
+    title: '[bmfdtsi]',
+    url: 'dc-ww-08/2/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'III.',
+    title: '[bwpddmn]',
+    url: 'dc-ww-08/3/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IV.',
+    title: '[djvotyc]',
+    url: 'dc-ww-08/4/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'V.',
+    title: '[eusyvoc]',
+    url: 'dc-ww-08/5/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VI.',
+    title: '[gkynpwp]',
+    url: 'dc-ww-08/6/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VII.',
+    title: '[tcghywj]',
+    url: 'dc-ww-08/7/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VIII.',
+    title: '[umbnlym]',
+    url: 'dc-ww-08/8/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IX.',
+    title: '[xxuawam]',
+    url: 'dc-ww-08/9/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'X.',
+    title: '[ytiujmo]',
+    url: 'dc-ww-08/10/'
+}
+
+    ],
+    url: 'dc-ww-08/'
+}
+,
+{
+    artists: [
+    {
+    name: 'deathsyrup',
+    url: 'deathsyrup/'
+}
+
+],
+
+    cover: 'cover_160.jpg?WWsP1NP59jI',
+    title: 'Weird Waveforms VII',
+    tracks: [
+        {
+    artists: [
+    
+],
+
+    
+    number: 'I.',
+    title: '[anxgsds]',
+    url: 'dc-ww-07/1/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'II.',
+    title: '[cogvugq]',
+    url: 'dc-ww-07/2/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'III.',
+    title: '[fybjtea]',
+    url: 'dc-ww-07/3/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IV.',
+    title: '[hnelhft]',
+    url: 'dc-ww-07/4/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'V.',
+    title: '[rknqyji]',
+    url: 'dc-ww-07/5/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VI.',
+    title: '[tjlppdd]',
+    url: 'dc-ww-07/6/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VII.',
+    title: '[uxghive]',
+    url: 'dc-ww-07/7/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VIII.',
+    title: '[vmmiegd]',
+    url: 'dc-ww-07/8/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IX.',
+    title: '[wvjlyuo]',
+    url: 'dc-ww-07/9/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'X.',
+    title: '[xpyvxqg]',
+    url: 'dc-ww-07/10/'
+}
+
+    ],
+    url: 'dc-ww-07/'
+}
+,
+{
+    artists: [
+    {
+    name: 'deathsyrup',
+    url: 'deathsyrup/'
+}
+
+],
+
+    cover: 'cover_160.jpg?ZKu1whQCmXA',
+    title: 'Weird Waveforms VI',
+    tracks: [
+        {
+    artists: [
+    
+],
+
+    
+    number: 'I.',
+    title: '[coqjcbn]',
+    url: 'dc-ww-06/1/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'II.',
+    title: '[fldnivg]',
+    url: 'dc-ww-06/2/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'III.',
+    title: '[mpjirtp]',
+    url: 'dc-ww-06/3/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IV.',
+    title: '[ncvqrjj]',
+    url: 'dc-ww-06/4/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'V.',
+    title: '[qtqyibs]',
+    url: 'dc-ww-06/5/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VI.',
+    title: '[snkyivc]',
+    url: 'dc-ww-06/6/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VII.',
+    title: '[uthamnr]',
+    url: 'dc-ww-06/7/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VIII.',
+    title: '[uuhrgsi]',
+    url: 'dc-ww-06/8/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IX.',
+    title: '[vmrgtdh]',
+    url: 'dc-ww-06/9/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'X.',
+    title: '[xipsato]',
+    url: 'dc-ww-06/10/'
+}
+
+    ],
+    url: 'dc-ww-06/'
+}
+,
+{
+    artists: [
+    {
+    name: 'deathsyrup',
+    url: 'deathsyrup/'
+}
+
+],
+
+    cover: 'cover_160.jpg?RHEYnXpekYA',
+    title: 'Weird Waveforms V',
+    tracks: [
+        {
+    artists: [
+    
+],
+
+    
+    number: 'I.',
+    title: '[bpdiclg]',
+    url: 'dc-ww-05/1/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'II.',
+    title: '[ccbchld]',
+    url: 'dc-ww-05/2/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'III.',
+    title: '[dnfqyqb]',
+    url: 'dc-ww-05/3/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IV.',
+    title: '[eeguvtp]',
+    url: 'dc-ww-05/4/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'V.',
+    title: '[idjumua]',
+    url: 'dc-ww-05/5/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VI.',
+    title: '[lgwnsvx]',
+    url: 'dc-ww-05/6/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VII.',
+    title: '[roxwsbf]',
+    url: 'dc-ww-05/7/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'VIII.',
+    title: '[uscffur]',
+    url: 'dc-ww-05/8/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'IX.',
+    title: '[wrsfplx]',
+    url: 'dc-ww-05/9/'
+}
+,
+{
+    artists: [
+    
+],
+
+    
+    number: 'X.',
+    title: '[xoiaeuq]',
+    url: 'dc-ww-05/10/'
+}
+
+    ],
+    url: 'dc-ww-05/'
+}
+,
+{
+    artists: [
+    {
+    name: 'deathsyrup',
+    url: 'deathsyrup/'
+}
+
+],
+
     cover: 'cover_160.jpg?QCgcO60EReM',
     title: 'Weird Waveforms IV',
     tracks: [
